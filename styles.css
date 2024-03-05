@@ -1,0 +1,22 @@
+div.aHU.hx [role="list"] {
+  display: flex;
+  flex-direction: column-reverse;
+}
+
+div.Am.aiL {
+  min-height: 0px !important;
+}
+
+div.G3.G2.afm {
+  border-top: 0px !important;
+}
+
+div.G3.G2.afm > div > div {
+  display: flex;
+  flex-direction: column-reverse;
+}
+
+div.adn.ads {
+  border-bottom: 0.5px solid #f6f7f4;
+  border-top: 0.5px solid #f6f7f4;
+}
