@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
-  "description": "Show latest emails first in Gmail.",
-  "name": "Gmail Threads - Latest First",
+  "description": "Reply to and show latest emails on top of Gmail.",
+  "name": "Gmail Reverse Threads - Newest First",
   "version": "1.0",
   "icons": {
     "16": "icon16.png",
